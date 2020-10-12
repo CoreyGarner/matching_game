@@ -1,0 +1,33 @@
+img {
+    position: absolute;
+  }
+
+  div {
+    position: absolute;
+    width: 500px;
+    height: 500px;
+  }
+
+  #rightSide {
+    left: 500px;
+    border-left: 1px solid;
+  }
+
+  h1 {
+    font-size: 70px;
+    padding: 10px;
+  }
+
+  p {
+    font-size: 25px;
+    padding: 20px;
+  }
+
+  body {
+    background-color: lightskyblue;
+    font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  }
+
+  #restart {
+    margin: 5px;
+  }
